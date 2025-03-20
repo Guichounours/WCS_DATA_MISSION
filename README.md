@@ -19,3 +19,15 @@ As a duo for 48 hours, we have the task of analyzing and cleaning the dataset on
 Interactive dashboard for observing trends and recurring user profiles
 Profile category creation to identify the most popular profile types
 A presentation stand to showcase our work
+
+# OUR APPROACH
+
+- EDA with Python : observe dataset, clean and, above all, reorganize columns
+- Identify the most relevant information and digitize it for clustering (create the required profile categories)
+- Design dashboard in Power BI
+- Organize a presentation and write an oral speech
+
+# WHAT WE COULD HAVE DONE WITH MORE TIME
+
+- Better analyze the clusters created with k-means and see how we can improve them by using more relevant information, etc.
+- Perform NLP with the columns containing the presentation texts or other texts that users enter on their profiles. With this, we could have better observed the trend of their searches or even the trend of their profile descriptions.
